@@ -17,18 +17,26 @@ p {
 
 #div1 {
 	border: 1px solid black;
+	border-radius: 10px;
+	padding-left: 10px;
 }
 
 #div2 {
 	border: 1px solid black;
+	border-radius: 10px;
+	padding-left: 10px;
 }
 
 #div3 {
 	border: 1px solid black;
+	border-radius: 10px;
+	padding-left: 10px;
 }
 
 #div4 {
 	border: 1px solid black;
+	border-radius: 10px;
+	padding-left: 10px;
 }
 
 #h1 {
@@ -59,25 +67,34 @@ p {
 	background: lightgrey;
 }
 
-#input {
+.name {
+	font-size: 12px;
+	border-radius: 6px;
+	border: 1px solid black;
+}
+
+.input {
 	cursor: pointer;
 }
 
-#label {
+.radio {
 	cursor: pointer;
 	display: inline-block;
 	padding: 1em;
 	background: grey;
 	text-align: center;
+	border-radius: 10px;
 }
 
-#nummers {
+.nummers {
 	display: block;
 }
 
-#select {
+.select {
 	margin: 10px;
 	font-size: 14px;
+	font-size: 12px;
+	border-radius: 6px;
 }
 
 #verstuur {
